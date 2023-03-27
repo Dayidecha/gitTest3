@@ -1,2 +1,3 @@
 git at home /master
+checkout branch dev
 haha /master
