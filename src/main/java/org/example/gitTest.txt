@@ -3,3 +3,4 @@ checkout branch dev111
 haha /master
 git rebase /feature1
 feature1 change
+master1 change
