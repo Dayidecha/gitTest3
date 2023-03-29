@@ -1,4 +1,5 @@
 git at home /master
 checkout branch dev
 haha /master
-git rebase /feature2
+git rebase /feature1
+feature1 change
